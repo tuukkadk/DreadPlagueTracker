@@ -1,0 +1,27 @@
+## Interface: 120005
+## Title: DreadPlagueTracker
+## Notes: Tracks Dread Plague application on any enemy unit for Death Knights.
+## Author: Tuukka
+## Version: 1.2.19
+## SavedVariables: DreadPlagueTrackerDB, DreadPlagueTrackerLog
+
+# Libraries
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceGUI-3.0\AceGUI-3.0.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-Button.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-CheckBox.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-ColorPicker.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-Heading.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-Label.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-Slider.lua
+Libs\AceGUI-3.0\widgets\AceGUIContainer-Frame.lua
+Libs\AceGUI-3.0\widgets\AceGUIContainer-SimpleGroup.lua
+Libs\AceGUI-3.0\widgets\AceGUIContainer-ScrollFrame.lua
+
+# Addon
+DreadPlagueTracker.lua
+DreadPlagueTracker_Config.lua
+
+# Note: Bindings.xml is auto-loaded by WoW from the addon directory
+# and intentionally NOT listed here to avoid double-loading.

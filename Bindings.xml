@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="DREADPLAGUETRACKER_REPORT" category="BINDING_HEADER_DREADPLAGUETRACKER">
+        DPT_BindingReport()
+    </Binding>
+</Bindings>
