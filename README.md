@@ -38,7 +38,7 @@ Specifically, when it shows MISSING but DP is clearly still on a mob. The keypre
 
 **4. After the run**
 
-Type `/dpt export` to open the log window. Copy everything. Paste it as a comment on the CurseForge page or open a GitHub issue.
+Type `/dpt export` to open the log window. Copy everything. Paste it as a comment on the CurseForge page or [open a GitHub issue](https://github.com/tuukkadk/DreadPlagueTracker/issues).
 
 The marker is what makes the report useful. Without it, the log is just a wall of events with no way to tell which DP REMOVED was the false one.
 
@@ -76,7 +76,7 @@ If you don't care about reporting and just want to play, that's fine too. Ignore
 **Manual:**
 1. Download the latest release
 2. Extract `DreadPlagueTracker/` into `World of Warcraft/_retail_/Interface/AddOns/`
-3. The folder must be named exactly `DreadPlagueTracker` (not `DreadPlagueTracker-1.2.19`)
+3. The folder must be named exactly `DreadPlagueTracker` (not `DreadPlagueTracker-1.2.20`)
 4. Restart WoW or `/reload`
 
 ## Requirements

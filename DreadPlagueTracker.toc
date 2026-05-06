@@ -2,7 +2,7 @@
 ## Title: DreadPlagueTracker
 ## Notes: Tracks Dread Plague application on any enemy unit for Death Knights.
 ## Author: Tuukka
-## Version: 1.2.19
+## Version: 1.2.20
 ## SavedVariables: DreadPlagueTrackerDB, DreadPlagueTrackerLog
 
 # Libraries

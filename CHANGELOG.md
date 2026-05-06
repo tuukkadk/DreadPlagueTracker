@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.20
+
+- Added GitHub repository link for issue reporting.
+
 ## 1.2.19 — Initial public release
 
 - Tracks Dread Plague on enemy units via auraInstanceID, the only field that survives Midnight's secret values taint
